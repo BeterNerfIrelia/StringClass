@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1556363188 source:c:\wid\atestatlucratfrumos\atestatlucratfrumos\main.cpp
+	<iostream>
+	<Sir.h>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1556452914 c:\wid\atestatlucratfrumos\atestatlucratfrumos\include\sir.h
+
+1556451697 source:c:\wid\atestatlucratfrumos\atestatlucratfrumos\src\sir.cpp
+	"Sir.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1554961956 source:g:\atestatlucratfrumos\atestatlucratfrumos\main.cpp
+	<iostream>
+	<Sir.h>
+
+1554961338 g:\atestatlucratfrumos\atestatlucratfrumos\include\sir.h
+
+1554961916 source:g:\atestatlucratfrumos\atestatlucratfrumos\src\sir.cpp
+	"Sir.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1554973524 source:f:\atestatlucratfrumos\atestatlucratfrumos\main.cpp
+	<iostream>
+	<Sir.h>
+
+1554973846 f:\atestatlucratfrumos\atestatlucratfrumos\include\sir.h
+
+1554974188 source:f:\atestatlucratfrumos\atestatlucratfrumos\src\sir.cpp
+	"Sir.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1556451697 source:c:\wid\atestatlucratfrumos\tudose george daniel - clasa string\src\sir.cpp
+	"Sir.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1557343386 c:\wid\atestatlucratfrumos\tudose george daniel - clasa string\include\sir.h
+
+1557347705 source:c:\wid\atestatlucratfrumos\tudose george daniel - clasa string\main.cpp
+	<iostream>
+	<Sir.h>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
