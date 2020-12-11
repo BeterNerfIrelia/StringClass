@@ -1,5 +1,5 @@
 # StringClass
-Computer certification project about the String class
+Computer certification project about a class of operations on strings.
 
 Dependencies:
   -OS: Windows
